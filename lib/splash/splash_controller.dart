@@ -1,4 +1,3 @@
-import 'package:amcmobile/pages/screens/login_page.dart';
 import 'package:get/get.dart';
 
 class SplashController extends GetxController{
